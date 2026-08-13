@@ -6,41 +6,24 @@ The HR Analytics & Employee Attrition Dashboard is a data analytics project desi
 
 🎯 Project Objectives
 
-Analyze overall employee attrition.
-Identify departments and job roles with higher attrition.
-Analyze attrition across different age groups.
-Examine the impact of overtime on employee attrition.
-Analyze the relationship between salary and attrition.
-Explore the impact of job satisfaction and work-life balance.
-Compare employee distribution across departments and job roles.
-Build an interactive Power BI dashboard for HR insights.
+1.Analyze overall employee attrition.
+2.Identify departments and job roles with higher attrition.
+3.Analyze attrition across different age groups.
+4.xamine the impact of overtime on employee attrition.
+5.Analyze the relationship between salary and attrition.
+6.Explore the impact of job satisfaction and work-life balance.
+7.Compare employee distribution across departments and job roles.
+8.Build an interactive Power BI dashboard for HR insights.
 
 🛠️ Tools & Technologies
 
-MySQL – Data cleaning, transformation, feature engineering, and analysis.
-Power BI – Interactive dashboard and data visualization.
-DAX – KPI calculations and analytical measures.
-CSV – Data export and transfer between MySQL and Power BI.
-GitHub – Project documentation and portfolio hosting.
+1.MySQL – Data cleaning, transformation, feature engineering, and analysis.
 
-📂 Project Workflow
-Kaggle HR Dataset
-        ↓
-MySQL Database
-        ↓
-Data Cleaning
-        ↓
-Feature Engineering
-        ↓
-SQL Data Analysis
-        ↓
-Export Processed Data as CSV
-        ↓
-Power BI
-        ↓
-DAX Measures & KPIs
-        ↓
-Interactive HR Dashboard
+2.Power BI – Interactive dashboard and data visualization.
+
+3.DAX – KPI calculations and analytical measures.
+
+4.CSV – Data export and transfer between MySQL and Power BI.
 
 📊 Dashboard Pages
 
