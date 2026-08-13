@@ -1,0 +1,5 @@
+Salary_Band,Total_Employees,Employees_Left,Employees_Stayed,Attrition_Rate,Avg_Income
+Low,395,113,282,28.61,2394.07
+Medium,518,65,453,12.55,4511.74
+High,275,33,242,12.00,7652.33
+"Very High",281,25,256,8.90,14826.28
